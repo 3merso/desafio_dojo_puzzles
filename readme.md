@@ -13,6 +13,7 @@ Requisitos Técnicos:
 4. REST;
 5. JQuery; ✅
 6. PWA;
+
 Pontos importantes:
  Poderá ser utilizada qualquer biblioteca open source para incrementar o projeto;
  Implementação de Testes serão considerados um bônus;
@@ -23,6 +24,8 @@ Pontos importantes:
  Adicionar um README.md com o passo a passo de instalação do projeto.
 
 Obs.: Devido o tempo e a simplicidade do projeto, não foram aplicados conceitos de PWA, orientação à objeto e REST;
+Para clonar o repositório na máquina local, basta seguir os passos desse link:
+https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 _______________________________________________________________________________________________________________________
 
 Teste (1) https://dojopuzzles.com/problems/palavras-primas/
